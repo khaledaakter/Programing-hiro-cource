@@ -1,6 +1,6 @@
 array:
     index = indexof();
-    value change korte arrayname[];
+    value change korte arrayname[] = "";
     array te serching value na thakle position -1 dekhabe.
 
 
@@ -9,4 +9,3 @@ array:
     notun element add in first : array.unshift();
     first item remove : array.shift();
 
-    
