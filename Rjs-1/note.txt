@@ -1,0 +1,18 @@
+array function, template string , spped oparator
+array: map, for eatch, filter, find
+object: structure
+
+
+oparators
+
+
+
+react: 
+
+component 4 vabe identify kora jay:
+1. similar in loop, difrent in data.
+2. container component.
+3. brekdown component.
+4. alone/standable component.
+
+

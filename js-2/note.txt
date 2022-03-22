@@ -9,3 +9,7 @@ array:
     notun element add in first : array.unshift();
     first item remove : array.shift();
 
+
+    condition and '&&' or '||'
+    nested if: if(){if(){}else{}}
+

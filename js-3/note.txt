@@ -1,0 +1,7 @@
+variable: var name = value; 
+array: var name = [value1, value2, .....];
+condition: if, if else, nested is;
+
+
+loop: var; while(condition){incriment/dicriment}
+run and divag(video no 18_5-2);
